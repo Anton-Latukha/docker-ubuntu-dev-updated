@@ -2,14 +2,36 @@
 
 [![Release][release-img]][release-url]
 
+<article id="logotypes">
+
+    <hgroup>    
+        <h2>Logotypes</h2>
+    </hgroup>
+
+    <section>
+        <img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/docker-logo.svg" alt="Docker">
+    </section>
+
+    <section>
+        <img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/ubuntu-logo.svg" alt="Ubuntu">
+    </section>
+
+    <section>
+        <img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg" alt="dev">
+    </section>
+
+</article>
+
 <div class="row">
   <div class="col-sm-4"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/docker-logo.svg" alt="Docker"></div>
-  <div style="font-size:90px">+</div>
   <div class="col-sm-4"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/ubuntu-logo.svg" alt="Ubuntu"></div>
-  <div style="font-size:90px">+</div>
   <div class="col-sm-4"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg" alt="dev"></div>
   </div>
 </div>
+
+
+![Docker](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/docker-logo.svg =250x250) ![Ubuntu](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/ubuntu-logo.svg =250x250) ![dev](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg =250x250)
+
 
 ----
 Image for more convenient and rapid  development on Ubuntu-base images.
