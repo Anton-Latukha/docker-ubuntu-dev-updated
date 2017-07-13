@@ -2,18 +2,17 @@
 
 [![Release][release-img]][release-url]
 
-<table>
-  <tr>
-  <th style="width:200px"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/docker-logo.svg" alt="Docker"></th>
-  <th style="font-size:90px">+</th>
-  <th style="width:200px"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/ubuntu-logo.svg" alt="Ubuntu"></th>
-  <th style="font-size:90px">+</th>
-  <th style="width:200px"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg" alt="dev"></th>
-  </tr>
-</table>
+<div class="row">
+  <div class="col-sm-4"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/docker-logo.svg" alt="Docker"></div>
+  <div style="font-size:90px">+</div>
+  <div class="col-sm-4"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/ubuntu-logo.svg" alt="Ubuntu"></div>
+  <div style="font-size:90px">+</div>
+  <div class="col-sm-4"><img src="https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg" alt="dev"></div>
+  </div>
+</div>
 
 ----
-Image to make development more convenient and rapid on Ubuntu-base images.
+Image for more convenient and rapid  development on Ubuntu-base images.
 
 But don't forget to switch `FROM` on moving toward production.
 
