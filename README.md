@@ -20,6 +20,12 @@
 ![dev](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg)
 
 
+| ![Docker](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/docker-logo.svg) | 
+![Ubuntu](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/ubuntu-logo.svg) | 
+![dev](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg) |
+
+| ![Docker](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/docker-logo.svg) | ![Ubuntu](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/ubuntu-logo.svg) | ![dev](https://cdn.rawgit.com/Anton-Latukha/docker-ubuntu-dev-updated/master/images/dev-logo.svg) |
+
 ----
 Image for more convenient and rapid  development on Ubuntu-base images.
 
