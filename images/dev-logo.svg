@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-15.284116"
-     inkscape:cy="4.7315801"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="39.06954"
+     inkscape:cy="55.736808"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,5 +71,15 @@
        height="28.196934"
        x="43.425751"
        y="108.77563" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#291573;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.241291,123.00078 h 0.734992"
+       id="path4628"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#291573;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 88.233755,123.03419 H 87.732623"
+       id="path4634"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
