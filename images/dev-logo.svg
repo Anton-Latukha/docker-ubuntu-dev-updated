@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="49.096874mm"
@@ -29,7 +30,7 @@
      inkscape:cx="-8.8155299"
      inkscape:cy="109.9261"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="991"
@@ -49,37 +50,69 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-43.399292,-108.74917)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.36368561px;line-height:15.85230255px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#291573;fill-opacity:1;stroke:none;stroke-width:0.63409209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="43.195255"
-       y="130.56432"
-       id="text4487"><tspan
-         sodipodi:role="line"
-         id="tspan4485"
-         x="43.195255"
-         y="130.56432"
-         style="fill:#291573;fill-opacity:1;stroke-width:0.63409209px">{; }</tspan></text>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000087;stroke-width:0.053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4601"
-       width="49.043957"
-       height="28.196934"
-       x="43.425751"
-       y="108.77563" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#291573;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 47.241291,123.00078 h 0.734992"
-       id="path4628"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#291573;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 88.233755,123.03419 H 87.732623"
-       id="path4634"
-       inkscape:connector-curvature="0" />
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <g
+       id="g4678"
+       clip-path="none">
+      <g
+         inkscape:label="Clip"
+         id="g4676">
+        <g
+           clip-path="none"
+           id="g4660">
+          <g
+             id="g4658"
+             inkscape:label="Clip">
+            <g
+               id="g4643"
+               clip-path="none"
+               style="image-rendering:optimizeQuality">
+              <title
+                 id="title4649">devFace</title>
+              <g
+                 inkscape:label="Clip"
+                 id="g4641">
+                <text
+                   id="text4487"
+                   y="130.56432"
+                   x="43.195255"
+                   style="font-style:normal;font-weight:normal;font-size:25.36368561px;line-height:15.85230255px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#291573;fill-opacity:1;stroke:none;stroke-width:0.63409209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   xml:space="preserve"
+                   transform="translate(-43.399292,-108.74917)"><tspan
+                     style="fill:#291573;fill-opacity:1;stroke-width:0.63409209px"
+                     y="130.56432"
+                     x="43.195255"
+                     id="tspan4485"
+                     sodipodi:role="line">{; }</tspan></text>
+              </g>
+            </g>
+            <use
+               height="100%"
+               width="100%"
+               id="use4647"
+               xlink:href="#g4641"
+               y="0"
+               x="0" />
+          </g>
+        </g>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g4658"
+           id="use4664"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <use
+       height="100%"
+       width="100%"
+       id="use4682"
+       xlink:href="#g4676"
+       y="0"
+       x="0" />
   </g>
 </svg>
